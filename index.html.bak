@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Resume</title>
+ </head>
+ <body>
+<table cellspacing="20">
+<tr>
+<td><img  src="circle-cropped.png "></td>
+<td><h1>Yashwanth Kumar</h1> 
+<p >Seeking for Entry Level Opportunity at <strong> MNC company</strong></P>
+<p>I am Full stack <strong>Developer</strong></P></td>
+</tr>
+</table>
+<hr>
+<h3> Courses Acheived</h3>
+<ul>
+  <li>Full Stack Developer</li>
+  <li>AZURE</li>
+  <li>AI</li>
+  </ul>
+  <h3>Eduactional Deatils</h3>
+  <table cellspacing="7">
+  <th>Date</th> 
+  <th>Education</th>
+  <tr>
+  <td>2016-2020</td>
+<td>B.TECH Graduate</td>
+</tr>
+<tr>
+<td>2014-2016</td>
+<td>INTERMEDIATE</td>
+</tr>
+   </table>
+  <hr>
+  <h3>Skills</h3>
+  <table>
+  <tr>
+  <td> Java</td>
+  <td>⭐⭐⭐⭐⭐</td></tr>
+ <tr><td> photography</td>
+  <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+  <td>web development</td>
+  <td>⭐⭐⭐⭐</td></tr>
+  <tr><td> video Making</td>
+  <td>⭐⭐⭐⭐</td></tr>
+  </table>
+  <hr>
+  <a href="D:\HTML\HTML_Resume/index1.html">Hobbies</a>
+  <a href="D:\HTML\HTML_Resume/index2.html">Contact Me</a>
+</body>
+</html>
